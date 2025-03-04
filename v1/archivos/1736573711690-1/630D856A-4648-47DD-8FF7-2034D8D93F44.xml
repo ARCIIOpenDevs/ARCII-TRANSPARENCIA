@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante Version="4.0" Serie="CMTAPV" Folio="410160610" Fecha="2024-11-29T02:25:35" Sello="eJBh4XNdNCtrllyfH6LeEYR5noMLDZvJsSG8zhoyM/5khufLDmyzSnvlpLGR5kmj5Vdp994vKMMibhKPcyvv5XFvW1YZ4QrYP6MypXUx7ieJtv+L34zNqZeILCiohQt4cCdO81GaauVgmcbdQj/z1Of5txtvftntvdYiFzQJuDozry9uVFuCZ8SWHHlEMyC9QoA+xQ8kWUuJMNn4Xz0oZyjPoS6BOIppWqAEX/UU9W08fhWp91J51yfq3scjqyiLfyRumBd/OtlWlAVMmZNJ0AIDlipcRqYtTRCUnmO2XHySP78RQLEoUDWev23mWz+k/LJ17z8QkONALUAqVLZUWQ==" FormaPago="01" NoCertificado="00001000000702149140" Certificado="MIIGLTCCBBWgAwIBAgIUMDAwMDEwMDAwMDA3MDIxNDkxNDAwDQYJKoZIhvcNAQELBQAwggGVMTUwMwYDVQQDDCxBQyBERUwgU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxMjAwBgkqhkiG9w0BCQEWI3NlcnZpY2lvc2FsY29udHJpYnV5ZW50ZUBzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMQ0wCwYDVQQIDARDRE1YMRMwEQYDVQQHDApDVUFVSFRFTU9DMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxXDBaBgkqhkiG9w0BCQITTXJlc3BvbnNhYmxlOiBBRE1JTklTVFJBQ0lPTiBDRU5UUkFMIERFIFNFUlZJQ0lPUyBUUklCVVRBUklPUyBBTCBDT05UUklCVVlFTlRFMB4XDTIzMDkwNTIyMjQzMVoXDTI3MDkwNTIyMjQzMVowgeoxKTAnBgNVBAMTIFBMQVpBIENPTUVSQ0lBTCBPUklFTlRFIFNBIERFIENWMSkwJwYDVQQpEyBQTEFaQSBDT01FUkNJQUwgT1JJRU5URSBTQSBERSBDVjEpMCcGA1UEChMgUExBWkEgQ09NRVJDSUFMIE9SSUVOVEUgU0EgREUgQ1YxJTAjBgNVBC0THFBDTzc5MDMyNzZZOSAvIFNBU0w3MjAxMDNRUjUxHjAcBgNVBAUTFSAvIFNBU0w3MjAxMDNNREZOTFIwNzEgMB4GA1UECxMXUExBWkEgQ09NRVJDSUFMIE9SSUVOVEUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCDGnbzj6OtQyTWKDp3oUuY68rLNEOCSaLW9zfRKGJXpbNzZIk5+iKswExoYefFXvxnoaahBk6dqGDaYDVt7xUApTcbHKFh32jQBVdZYE8sES2u2+qC3jw4K1J7vS0E4Ty8EDwi4OQxISJyc/TTQpwvMtvfJkHROg3TjTlF8C7QEAHKtjBUWdPMiuZOoLf/Ib8x2t76Z+X3jxVzg9fqMemjRM7xViZfNY9KE4AmMyYw526jvR9xAnxAvVIYPRCcZfYchCtmH/7m+R4P2j96krGuQQlvDbDRo+35hnoP9g3YyCHc0o2ugZURSO7k60+X/Ac5y4Q0sU7mX5faYQMjXq7JAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBCwUAA4ICAQADRkA/Pfdey16rpZAbjUoMGmYuzJ7pinbto5INyVKJRjJpdDKIb2QLEpWmwl0VMaOiDq+fOcfBWjH/UFw2KBBmIkzQrD0Kn0wfJfWK+PyY/hqpCI77CaYZ5JTGGth8pfpTzMh38jwyXa4lXR1C9acwXx8IYbbN14BSsxPfuSPayka/OjCyK3JHuGZgmi81q0LYjhS3HQghnHdguGcvQH7SvMpAFyQeU9GSiAGj47z954C/K1ntfU4PN0ck6M7a1cxSeXaGGgMS4d+PieV75/08cjRIPGrMV1smPQ9eThibKJZ4oARMhKYqRROMzHBrupfMwmADErmYCfw/xNykNqQiKwXBbaRg7KljulmFh/xyEnLbxjzoVI8QswbWyl7uhreHknYLYVr7JSJSInOXjz+psk9IBAw2mRVOZFaUvYRpyzi2H/fG7o7vVljqb8R7lAhvVMmzzJizdjZshLmztWMZQuoiMxy3+GxqZxpkZ2nLHIQv3w33ubAJwpX8kugMsrPKJnPVlZsPhqtgEPux/UdPxlwu1/AqiDkLP/Vi6KA0zcusHfvEDajcyXIZeKpfCEoe3NqtwHzzCG+cedx0526wddNNs/bGr/sZVUMtulF0FHJvAkIHmWDegxMm1DK7iHJDDXLoqZijydCIz3az6epLOY4TkRJ2w02/j8Ltcy1Qeg==" CondicionesDePago="CONTADO" SubTotal="88.19" Moneda="MXN" TipoCambio="1" Total="91.50" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="15290" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4">
+  <cfdi:Emisor Rfc="PCO7903276Y9" Nombre="PLAZA COMERCIAL ORIENTE" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="CON070308P14" Nombre="CONSYSTEC" DomicilioFiscalReceptor="75760" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50181900" NoIdentificacion="B2031" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="PAN, GALLETAS Y PASTELITOS DULCES-DONAS 6P 158G" ValorUnitario="31.00" Importe="31.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202300" NoIdentificacion="01089" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="BEBIDAS NO ALCOHÓLICAS-COCA COLA REGULAR 600ML PET" ValorUnitario="20.69" Importe="20.69" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="20.69" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.31" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="B4856" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="BOTANAS-TOTIS TOTOPOS HOT CHILI 120GR" ValorUnitario="20.00" Importe="20.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="20.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202300" NoIdentificacion="02066" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="BEBIDAS NO ALCOHÓLICAS-AGUA CIEL 600ML PET" ValorUnitario="16.50" Importe="16.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="16.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="3.31">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="20.69" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.31" />
+      <cfdi:Traslado Base="67.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital Version="1.1" UUID="630D856A-4648-47DD-8FF7-2034D8D93F44" FechaTimbrado="2024-11-29T02:25:36" RfcProvCertif="INT020124V62" SelloCFD="eJBh4XNdNCtrllyfH6LeEYR5noMLDZvJsSG8zhoyM/5khufLDmyzSnvlpLGR5kmj5Vdp994vKMMibhKPcyvv5XFvW1YZ4QrYP6MypXUx7ieJtv+L34zNqZeILCiohQt4cCdO81GaauVgmcbdQj/z1Of5txtvftntvdYiFzQJuDozry9uVFuCZ8SWHHlEMyC9QoA+xQ8kWUuJMNn4Xz0oZyjPoS6BOIppWqAEX/UU9W08fhWp91J51yfq3scjqyiLfyRumBd/OtlWlAVMmZNJ0AIDlipcRqYtTRCUnmO2XHySP78RQLEoUDWev23mWz+k/LJ17z8QkONALUAqVLZUWQ==" NoCertificadoSAT="00001000000708361008" SelloSAT="g8n5fbvZrvCipxLE9HCXBpktmvAJdIvl66DMhDdCHR0+hUy+0uWHo4ON4LERPcmCwHJw1KHNv+GvhVGqDPW4p6MtwyT3RNNNUWnCYmm+aSwMsCdyb86r3kB3/WgxTGtbTUS6UWYaB6INO2A5woLPn3BSPtO+gQdGh+8c3SyGmR1sN3sTBJReLzlR0Avgrpy4ajYhI+uZoZN5D8kfAr5qrp2ghzNZD8JcZWqyvvsVfAyAofeqKYoOJ3N+3ivS+pEmwrx8MEfI+ym/B+paNFZqaeNM8134Az5D8XZ2hSAPEeo/Wz1zy8AgYiQ4zxoLKVe9lz7jEYxZ/us7NIagqxu2bw==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="F" Folio="50971" Fecha="2024-12-09T16:45:48" Sello="XHXbKaQMOG4+Hnn831GIRShg81QkOcdIuOhIgEJbEJuFi6OtLtHBO7dZ9MS7oT72R4vXn+vHybogePl5dRa26hZNDBdvuVTiojTrxEPYsuNo7srmh7y4dFFXl/RCnWgk7QiQjuCMKNvOBetemGxFbBRybNEsGpfw0AcQcRylXjSG1LVdMDDK5nV8Wm7dHFvR457sEkABQzIFzW7Nqk73FKCNyeJ1DpOW+8JIz5ODyZb0PelKBZvLxj2afa72uaALI7vr/AXyc9lqL286JEFk6MaBmr1cM05XCyNUscB42A++C5MmUduCXtVGAOojAd3f1YVL/63fq1TxBJu37BudzQ==" FormaPago="28" NoCertificado="00001000000506118142" Certificado="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" SubTotal="63.79" Moneda="MXN" Total="74.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72410">
+  <cfdi:Emisor Rfc="RACG681203F84" Nombre="MARIA GUADALUPE RAMIREZ CASTELLANOS" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CON070308P14" Nombre="CONSYSTEC" DomicilioFiscalReceptor="75760" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31211904" NoIdentificacion="21528" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Brocha mango de plastico 3 Pretul" ValorUnitario="15.51" Importe="15.51" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15.52" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.4832" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211906" NoIdentificacion="13875" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Rodillo para pintar felpa 9 x 3/8 extra lisa" ValorUnitario="32.758621" Importe="32.76" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="32.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.2416" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27111909" NoIdentificacion="21516" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Espatula 3 flexible" ValorUnitario="15.517241" Importe="15.52" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15.52" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.4832" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="10.21">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="63.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.21" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="EEB72DCB-E9BB-4544-AC92-4A995D67A855" FechaTimbrado="2024-12-09T16:45:49" RfcProvCertif="SCD110105654" SelloCFD="XHXbKaQMOG4+Hnn831GIRShg81QkOcdIuOhIgEJbEJuFi6OtLtHBO7dZ9MS7oT72R4vXn+vHybogePl5dRa26hZNDBdvuVTiojTrxEPYsuNo7srmh7y4dFFXl/RCnWgk7QiQjuCMKNvOBetemGxFbBRybNEsGpfw0AcQcRylXjSG1LVdMDDK5nV8Wm7dHFvR457sEkABQzIFzW7Nqk73FKCNyeJ1DpOW+8JIz5ODyZb0PelKBZvLxj2afa72uaALI7vr/AXyc9lqL286JEFk6MaBmr1cM05XCyNUscB42A++C5MmUduCXtVGAOojAd3f1YVL/63fq1TxBJu37BudzQ==" NoCertificadoSAT="00001000000702501858" SelloSAT="J1/MGC20q5vuCHRaLpMD47HjH9xrjM+09RW+rYK/pIJglmII5pPE9g2I0P2jrwfLwokjJ75DJHJoTuFKX4ER+RnTB8/VJZQXt/F5U26vuuAmOJO4+8DlnsSmzs+zi7TSLWaWgppJAyT/LQstkbmwVl4e7dAWY77rFWiLnYpEqOF2jzUd2HExFgsskDbsGtDT2H4uR3ekLOaOvjHwq3rPr9lyjUlBWf+vS6Ts9NEMOGqKhrOYKdFywzptD3sDrRCD/6eHePP6BoLwh7mGHfrW0fDB51CfqnT+g6Jm8jw4+JG4YZbhsT0RM+nSmQ+VdgeGWBjwZ5B54OlKxPjWFBwmfQ==" />
+</cfdi:Complemento></cfdi:Comprobante>
