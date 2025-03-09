@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listado de Archivos</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        #container {
+            max-width: 600px;
+            margin: 40px auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        #logo {
+            width: 150px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        #file-list {
+            list-style: none;
+            padding: 0;
+        }
+        .file-item {
+            padding: 15px;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background 0.2s;
+        }
+        .file-item:hover {
+            background: #f2f2f7;
+        }
+        .file-item a {
+            text-decoration: none;
+            color: #007aff;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <img id="logo" src="https://i0.wp.com/www.grupoarcii.com/wp-content/uploads/2024/10/Logo-grupo-arcii.png?w=1920&ssl=1" alt="Grupo ARCII">
+        <h2>Listado de Archivos</h2>
+        <ul id="file-list"></ul>
+    </div>
+    
+    <script>
+        async function fetchFiles() {
+            try {
+                let response = await fetch('/list-files'); // Necesita un backend que sirva la lista de archivos
+                let files = await response.json();
+                let fileList = document.getElementById('file-list');
+                fileList.innerHTML = '';
+                files.forEach(file => {
+                    let li = document.createElement('li');
+                    li.className = 'file-item';
+                    li.innerHTML = `<a href="/${file}" download>${file}</a>`;
+                    fileList.appendChild(li);
+                });
+            } catch (error) {
+                console.error('Error al obtener archivos:', error);
+            }
+        }
+        
+        fetchFiles();
+    </script>
+</body>
+</html>
